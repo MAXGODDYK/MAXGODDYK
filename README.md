@@ -29,3 +29,5 @@
 ### Ігрова розробка
 
 У дипломному проєкті RPG FARMER на C++ та Unreal Engine реалізував збір ресурсів, торгівлю, ігровий інтерфейс і збереження у JSON. На курсі Unity працював з навчальними C#-скриптами руху персонажа, телепортації та перемикання камери. Серед моїх особистих проєктів також є 2D-прототип на Godot зі збереженням стану між сесіями. [Код RPG FARMER](https://github.com/MAXGODDYK/RPGFARM/tree/main/MyProject/Source/MyProject) · [Навчальні скрипти Unity](https://github.com/MAXGODDYK/Home-Work_6/tree/main/Assets/Scripts) · [Опис гри на Godot](cases/godot-tower-defense.md)
+
+У тестовому завданні для Windows додав до готового контролера Unity підйом і спуск драбиною та проходження крізь вікно. [Як працює рух персонажа](cases/unity-traversal.md)
